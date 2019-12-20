@@ -32,7 +32,7 @@ Adjusting the parameters of **MPH text** on the Speed Limit texture; from left t
 
 
 ![Yield sign variations dirt level](Examples/Yield%20Dirt%20Level%20Row.png)
-Adjusting the parameters of “dirt level” on the Yield texture; from left to right: 0, 0.5, 1	
+Adjusting the parameters of **dirt level** on the Yield texture; from left to right: 0, 0.5, 1	
 
 
 **Do Not Enter**

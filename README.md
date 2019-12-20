@@ -1,7 +1,13 @@
 # RoadSignsMarkings
 Procedural road signs and lane markings
 
-This project contains a series of procedural textures for texturing road signs and road lane markings. These textures were created using Substance Designer and Substance Painter; Exposed parameters for editing each textures are exemplified below, including things like dirt level or text (where applicable).
+This project contains a series of procedural textures for texturing road signs and road lane markings, suitable for use in a wide range of United States based road scenes. These textures were created using Substance Designer and have procedural texture parameters, hence the visual qualities of the textures can be modified by varying these parameters. Exposed parameters for editing each texture are exemplified below, including dirt level and text (where applicable). 
+
+Plugins for 3D game engines such as [Unity](https://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555) and [Unreal](https://support.gametextures.com/article/88-importing-our-materials-into-unreal) make it possible to directly use Substance Archive (.sbsar) files directly in-engine.
+
+A general description of how to use these textures on 3D models is in the [project wiki pages](wiki).
+
+Textures and models are available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license, and the MIT License.
 
 **Examples of Road Sign Textures**
 
@@ -32,7 +38,7 @@ Adjusting the parameters of **MPH text** on the Speed Limit texture; from left t
 
 
 ![Yield sign variations dirt level](Examples/Yield%20Dirt%20Level%20Row.png)
-Adjusting the parameters of **dirt level** on the Yield texture; from left to right: 0, 0.5, 1	
+Adjusting the parameters of “dirt level” on the Yield texture; from left to right: 0, 0.5, 1	
 
 
 **Do Not Enter**

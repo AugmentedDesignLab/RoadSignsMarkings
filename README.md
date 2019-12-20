@@ -6,7 +6,7 @@ Procedural road signs and lane markings
 **Stop**
 
 
-![Stop sign variations dirt level](https://github.com/AugmentedDesignLab/RoadSignsMarkings/blob/master/Examples/Do%20Not%20Enter%20Dirt%20Level%201.png)
+![Stop sign variations dirt level](Examples/Do%20Not%20Enter%20Dirt%20Level%201.png)
 Adjusting the parameters of **dirt level** on the Stop texture; from left to right: 0, 0.5, 1
 
 

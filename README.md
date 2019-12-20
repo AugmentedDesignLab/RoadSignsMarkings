@@ -12,7 +12,7 @@ Adjusting the parameters of **dirt level** on the Stop texture; from left to rig
 
 **One Way**
 
-![One Way sign variations dirt level](Examples/One Way Dirt Level Row)
+![One Way sign variations dirt level](Examples/One Way Dirt Level Row.png)
 Adjusting the parameters of **dirt level** on the One Way texture; from left to right: 0, 0.5, 1
 
 

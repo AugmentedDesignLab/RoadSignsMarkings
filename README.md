@@ -1,6 +1,8 @@
 # RoadSignsMarkings
 Procedural road signs and lane markings
 
+This project contains a series of procedural textures for texturing road signs and road lane markings. These textures were created using Substance Designer and Substance Painter; Exposed parameters for editing each textures are exemplified below, including things like dirt level or text (where applicable).
+
 **Examples of Road Sign Textures**
 
 **Stop**

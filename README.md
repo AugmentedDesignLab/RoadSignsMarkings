@@ -6,30 +6,30 @@ Procedural road signs and lane markings
 **Stop**
 
 
-![Stop sign variations dirt level](Examples/Do%20Not%20Enter%20Dirt%20Level%201.png)
+![Stop sign variations dirt level](Examples/Stop%20Sign%20%20Dirt%20Level%20.png)
 Adjusting the parameters of **dirt level** on the Stop texture; from left to right: 0, 0.5, 1
 
 
 **One Way**
 
-![One Way sign variations dirt level](Examples/One Way Dirt Level Row.png)
+![One Way sign variations dirt level](Examples/One%20Way%20Dirt%20Level%20Row.png)
 Adjusting the parameters of **dirt level** on the One Way texture; from left to right: 0, 0.5, 1
 
 
 **Speed Limit**
 
 
-![Speed Limit sign variations dirt level](Examples/Speed Limit Dirt Level Row)
+![Speed Limit sign variations dirt level](Examples/Speed%20Limit%20Dirt%20Level%20Row.png)
 Adjusting the parameters of **dirt level** on the Speed Limit texture; from left to right: 0, 0.5, 1
 
-![Speed Limit sign variations MPH](Examples/Speed Limit MPH Row)
+![Speed Limit sign variations MPH](Examples/Speed%20Limit%20MPH%20Row.png)
 Adjusting the parameters of **MPH text** on the Speed Limit texture; from left to right: 15, 30, 60
 
 
 **Yield**
 
 
-![Yield sign variations dirt level](Examples/Yield Dirt Level Row)
+![Yield sign variations dirt level](Examples/Yield%20Dirt%20Level%20Row)
 Adjusting the parameters of “dirt level” on the Yield texture; from left to right: 0, 0.5, 1	
 
 

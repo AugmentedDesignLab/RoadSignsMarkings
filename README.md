@@ -5,7 +5,7 @@ This project contains a series of procedural textures for texturing road signs a
 
 Plugins for 3D game engines such as [Unity](https://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555) and [Unreal](https://support.gametextures.com/article/88-importing-our-materials-into-unreal) make it possible to directly use Substance Archive (.sbsar) files directly in-engine.
 
-A general description of how to use these textures on 3D models is in the [project wiki pages](wiki).
+A general description of how to use these textures on 3D models is in the [project wiki pages](https://github.com/AugmentedDesignLab/RoadSignsMarkings/wiki).
 
 Textures and models are available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license, and the MIT License.
 

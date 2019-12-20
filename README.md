@@ -86,7 +86,7 @@ Adjusting the parameters of **dirt level** on the Sidewalk texture; from left to
 **Lane Markings**
 
 
-![Road Lane Markings Turn Signals variations turn signal](Examples/Road%20Lane%20Markings%20Turn%20Signals%20Row.png)
+![Road Lane Markings Turn Signals variations turn signal](Examples/Road%20Lane%20Markings%20Row.png)
 Adjusting the arrow direction on the Lane markings Turn Signals Template texture; from left to right: Left, Right, Left-Straight, Right-Straight
 
 ![Road Lane Markings Turn Signals variations turn signal](Examples/Lane%20Markings%20Pedestrian%20Row.png)

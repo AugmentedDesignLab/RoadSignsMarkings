@@ -6,7 +6,7 @@ Procedural road signs and lane markings
 **Stop**
 
 
-![Stop sign variations dirt level](Examples/Stop%20Sign%20%20Dirt%20Level%20Row.png)
+![Stop sign variations dirt level](Examples/Stop%20Sign%20%Dirt%20Level%20Row.png)
 Adjusting the parameters of **dirt level** on the Stop texture; from left to right: 0, 0.5, 1
 
 
